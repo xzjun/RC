@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,gh-proxy.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,docker
 DOMAIN-KEYWORD,stream
 DOMAIN-KEYWORD,stream-link
 
