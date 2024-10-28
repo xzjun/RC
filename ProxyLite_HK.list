@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,stream-link.online
 DOMAIN-SUFFIX,stream-link.org
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,tvb.com
+DOMAIN-SUFFIX,iill.top
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,stream
