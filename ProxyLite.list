@@ -1,0 +1,53 @@
+# 代理补充列表
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,iill.top
+DOMAIN-SUFFIX,misakaf.org
+DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,wx.sb
+DOMAIN-SUFFIX,stream-link.online
+DOMAIN-SUFFIX,stream-link.org
+DOMAIN-SUFFIX,livednow.com
+DOMAIN-SUFFIX,orz-7.com
+DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,ofiii.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,thetvapp.to
+DOMAIN-SUFFIX,docker.xiaoya.pro
+DOMAIN-SUFFIX,xy.ggbond.org
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,gh-proxy.com
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,misakaf
+DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,stream
+DOMAIN-KEYWORD,stream-link
+
+# IP段匹配
+IP-CIDR,142.171.133.131/32,no-resolve
+IP-CIDR,103.115.43.2/32,no-resolve
+
+# 国外DNS
+DOMAIN-SUFFIX,dns.google
+DOMAIN-SUFFIX,cdn.hinet.net
+DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
+DOMAIN-SUFFIX,dot.sb
+DOMAIN-SUFFIX,dns.umbrella.com
+DOMAIN-SUFFIX,dns.quad9.net
+DOMAIN-SUFFIX,dns.google
+DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,doh.dns.sb
+DOMAIN-SUFFIX,doh.opendns.com
+DOMAIN-SUFFIX,dns.quad9.net
+DOMAIN-SUFFIX,hk-hkg.doh.sb
+IP-CIDR,8.8.8.8/32,no-resolve
+IP-CIDR,8.8.4.4/32,no-resolve
+IP-CIDR,1.1.1.1/32,no-resolve
+IP-CIDR,1.0.0.1/32,no-resolve
+IP-CIDR,185.222.222.222/32,no-resolve
+IP-CIDR,208.67.222.222/32,no-resolve
+IP-CIDR,208.67.220.220/32,no-resolve
