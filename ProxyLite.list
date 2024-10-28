@@ -15,7 +15,9 @@ DOMAIN-SUFFIX,docker.xiaoya.pro
 DOMAIN-SUFFIX,xy.ggbond.org
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,pixman.io
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,misakaf
 DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,pixman
