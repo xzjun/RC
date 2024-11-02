@@ -1,6 +1,8 @@
 # 代理补充列表
 
 # 域名后缀匹配
+DOMAIN-SUFFIX,aptv.app
+DOMAIN-SUFFIX,aktv.top
 DOMAIN-SUFFIX,misakaf.org
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,wx.sb
@@ -17,6 +19,8 @@ DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,pixman.io
 
 # 域名关键字匹配
+DOMAIN-KEYWORD,aktv
+DOMAIN-KEYWORD,aptv
 DOMAIN-KEYWORD,misakaf
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,pixman
