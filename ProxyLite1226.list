@@ -2,28 +2,20 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,aptv.app
-DOMAIN-SUFFIX,aktv.top
-DOMAIN-SUFFIX,misakaf.org
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,wx.sb
 DOMAIN-SUFFIX,livednow.com
 DOMAIN-SUFFIX,livednow.org
 DOMAIN-SUFFIX,orz-7.com
-DOMAIN-SUFFIX,4gtv.tv
-DOMAIN-SUFFIX,ofiii.com
 DOMAIN-SUFFIX,thetvapp.to
 DOMAIN-SUFFIX,docker.xiaoya.pro
 DOMAIN-SUFFIX,xy.ggbond.org
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,pixman.io
-DOMAIN-SUFFIX,speedtest.net
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,aktv
 DOMAIN-KEYWORD,aptv
-DOMAIN-KEYWORD,misakaf
 DOMAIN-KEYWORD,muguacloud
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,pixman
-DOMAIN-KEYWORD,speedtest
