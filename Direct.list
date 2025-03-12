@@ -8,9 +8,11 @@ DOMAIN-SUFFIX,yangshipin.cn
 DOMAIN-SUFFIX,dnsany.com
 DOMAIN-SUFFIX,cmvideo.cn
 DOMAIN-SUFFIX,chinamobile.com
+DOMAIN-SUFFIX,myip.ipip.net
 
 # 域名关键字匹配
-# DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,liustar
 
 # IP段匹配
 IP-CIDR,183.207.0.0/16,no-resolve
