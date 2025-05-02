@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,xy.ggbond.org
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,pixman.io
+DOMAIN-SUFFIX,hongxingyunmovie.vip
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,4gtv
@@ -23,3 +24,4 @@ DOMAIN-KEYWORD,aptv
 DOMAIN-KEYWORD,muguacloud
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,pixman
+DOMAIN-KEYWORD,hongxingyunmovie
