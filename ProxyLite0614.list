@@ -17,8 +17,10 @@ DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,pixman.io
 DOMAIN-SUFFIX,hongxingyunmovie.vip
 DOMAIN-SUFFIX,bptv.freetv.top 
+DOMAIN-SUFFIX,tonymacx86.com
 
 # 域名关键字匹配
+DOMAIN-KEYWORD,tonymacx86
 DOMAIN-KEYWORD,4gtv
 DOMAIN-KEYWORD,ofiii
 DOMAIN-KEYWORD,aptv
