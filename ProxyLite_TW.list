@@ -44,7 +44,7 @@ DOMAIN-SUFFIX,dns.hinet.net
 DOMAIN-SUFFIX,hamivideo
 DOMAIN-SUFFIX,hamivideo.hinet.net
 DOMAIN-SUFFIX,hamitv
-
+DOMAIN,scc.ott.hinet.net
 DOMAIN-SUFFIX,weblivea-hamivideo.cdn.hinet.net
 DOMAIN-SUFFIX,static-hamivideo.cdn.hinet.net
 DOMAIN-SUFFIX,tvcastlive-hamivideo.cdn.hinet.net
