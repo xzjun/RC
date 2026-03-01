@@ -18,5 +18,3 @@ DOMAIN-SUFFIX,djicorp.com
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,liustar
 
-# IP段匹配
-IP-CIDR,183.207.0.0/16,no-resolve
