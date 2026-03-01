@@ -10,6 +10,9 @@ DOMAIN-SUFFIX,dnsany.com
 DOMAIN-SUFFIX,cmvideo.cn
 DOMAIN-SUFFIX,chinamobile.com
 DOMAIN-SUFFIX,myip.ipip.net
+DOMAIN-SUFFIX,livecodes.vip
+DOMAIN-SUFFIX,gtdji.com
+DOMAIN-SUFFIX,djicorp.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
