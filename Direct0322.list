@@ -5,6 +5,7 @@
 DDOMAIN-SUFFIX,mirrors.vsean.net
 DDOMAIN-SUFFIX,mobaibox.com
 DOMAIN-SUFFIX,cctv.cn
+DOMAIN-SUFFIX,catvod.com
 DOMAIN-SUFFIX,yangshipin.cn
 DOMAIN-SUFFIX,dnsany.com
 DOMAIN-SUFFIX,cmvideo.cn
@@ -20,6 +21,7 @@ DOMAIN-SUFFIX,live.pcdnbox.com
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,liustar
 DOMAIN-KEYWORD,pcdnbox
+DOMAIN-KEYWORD,catvod
 
 # IP段匹配
 IP-CIDR,149.30.255.0/24,no-resolve
