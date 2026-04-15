@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,hongxingyunmovie.vip
 DOMAIN-SUFFIX,bptv.freetv.top 
 DOMAIN-SUFFIX,tonymacx86.com
 DOMAIN-SUFFIX,vds.qzz.io
+DOMAIN-SUFFIX,immortalwrt.org
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,tonymacx86
@@ -26,3 +27,4 @@ DOMAIN-KEYWORD,muguacloud
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,pixman
 DOMAIN-KEYWORD,hongxingyunmovie
+DOMAIN-SUFFIX,immortalwrt
