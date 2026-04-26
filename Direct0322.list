@@ -16,12 +16,14 @@ DOMAIN-SUFFIX,gtdji.com
 DOMAIN-SUFFIX,djicorp.com
 DOMAIN-SUFFIX,pcdnbox.com
 DOMAIN-SUFFIX,live.pcdnbox.com
+DOMAIN-SUFFIX,gitee.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,liustar
 DOMAIN-KEYWORD,pcdnbox
 DOMAIN-KEYWORD,catvod
+DOMAIN-SUFFIX,gitee
 
 # IP段匹配
 IP-CIDR,149.30.255.0/24,no-resolve
