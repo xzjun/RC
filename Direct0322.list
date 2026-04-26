@@ -14,6 +14,9 @@ DOMAIN-SUFFIX,myip.ipip.net
 DOMAIN-SUFFIX,livecodes.vip
 DOMAIN-SUFFIX,gtdji.com
 DOMAIN-SUFFIX,djicorp.com
+DOMAIN-SUFFIX,gitee.com
+DOMAIN-SUFFIX,gitee.io
+DOMAIN-SUFFIX,giteeusercontent.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
