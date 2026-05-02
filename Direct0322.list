@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,djicorp.com
 DOMAIN-SUFFIX,gitee.com
 DOMAIN-SUFFIX,gitee.io
 DOMAIN-SUFFIX,giteeusercontent.com
+DOMAIN-SUFFIX,galaxyappstore.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
