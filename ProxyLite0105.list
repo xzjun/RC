@@ -1,37 +1,38 @@
 # 代理补充列表
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,ofiii.com
-DOMAIN-SUFFIX,aptv.app
-DOMAIN-SUFFIX,wx.sb
-DOMAIN-SUFFIX,livednow.com
-DOMAIN-SUFFIX,livednow.org
-DOMAIN-SUFFIX,orz-7.com
-DOMAIN-SUFFIX,thetvapp.to
-DOMAIN-SUFFIX,docker.xiaoya.pro
-DOMAIN-SUFFIX,xy.ggbond.org
-DOMAIN-SUFFIX,themoviedb.org
-DOMAIN-SUFFIX,imdb.com
-DOMAIN-SUFFIX,pixman.io
-DOMAIN-SUFFIX,hongxingyunmovie.vip
-DOMAIN-SUFFIX,bptv.freetv.top 
-DOMAIN-SUFFIX,tonymacx86.com
-DOMAIN-SUFFIX,vds.qzz.io
-DOMAIN-SUFFIX,immortalwrt.org
-DOMAIN-SUFFIX,veryfast.filegear-sg.me
-DOMAIN-SUFFIX,jdshipin.com
 DOMAIN-SUFFIX,163189.xyz
 DOMAIN-SUFFIX,1678520.xyz
 DOMAIN-SUFFIX,178.indevs.in
+DOMAIN-SUFFIX,aptv.app
+DOMAIN-SUFFIX,bptv.freetv.top 
+DOMAIN-SUFFIX,docker.xiaoya.pro
+DOMAIN-SUFFIX,hongxingyunmovie.vip
+DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,immortalwrt.org
+DOMAIN-SUFFIX,jdshipin.com
+DOMAIN-SUFFIX,livednow.com
+DOMAIN-SUFFIX,livednow.org
+DOMAIN-SUFFIX,ofiii.com
+DOMAIN-SUFFIX,orz-7.com
+DOMAIN-SUFFIX,pixman.io
+DOMAIN-SUFFIX,push.apple.com
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,thetvapp.to
+DOMAIN-SUFFIX,tonymacx86.com
+DOMAIN-SUFFIX,vds.qzz.io
+DOMAIN-SUFFIX,veryfast.filegear-sg.me
+DOMAIN-SUFFIX,wx.sb
+DOMAIN-SUFFIX,xy.ggbond.org
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,tonymacx86
-DOMAIN-KEYWORD,ofiii
-DOMAIN-KEYWORD,aptv
-DOMAIN-KEYWORD,muguacloud
 DOMAIN-KEYWORD,1e100
-DOMAIN-KEYWORD,pixman
+DOMAIN-KEYWORD,aptv
+DOMAIN-SUFFIX,filegear
 DOMAIN-KEYWORD,hongxingyunmovie
 DOMAIN-SUFFIX,immortalwrt
+DOMAIN-KEYWORD,muguacloud
+DOMAIN-KEYWORD,ofiii
+DOMAIN-KEYWORD,pixman
+DOMAIN-KEYWORD,tonymacx86
 DOMAIN-SUFFIX,veryfast
-DOMAIN-SUFFIX,filegear
