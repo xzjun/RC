@@ -2,22 +2,23 @@
 
 # MyList
 # 域名后缀匹配
-DDOMAIN-SUFFIX,mirrors.vsean.net
-DDOMAIN-SUFFIX,mobaibox.com
-DOMAIN-SUFFIX,cctv.cn
 DOMAIN-SUFFIX,catvod.com
-DOMAIN-SUFFIX,yangshipin.cn
-DOMAIN-SUFFIX,dnsany.com
-DOMAIN-SUFFIX,cmvideo.cn
+DOMAIN-SUFFIX,cctv.cn
 DOMAIN-SUFFIX,chinamobile.com
-DOMAIN-SUFFIX,myip.ipip.net
-DOMAIN-SUFFIX,livecodes.vip
-DOMAIN-SUFFIX,gtdji.com
+DOMAIN-SUFFIX,cmvideo.cn
 DOMAIN-SUFFIX,djicorp.com
+DOMAIN-SUFFIX,dnsany.com
+DOMAIN-SUFFIX,galaxyappstore.com
 DOMAIN-SUFFIX,gitee.com
 DOMAIN-SUFFIX,gitee.io
 DOMAIN-SUFFIX,giteeusercontent.com
-DOMAIN-SUFFIX,galaxyappstore.com
+DOMAIN-SUFFIX,gtdji.com
+DOMAIN-SUFFIX,hndt.com
+DOMAIN-SUFFIX,livecodes.vip
+DOMAIN-SUFFIX,mirrors.vsean.net
+DOMAIN-SUFFIX,mobaibox.com
+DOMAIN-SUFFIX,myip.ipip.net
+DOMAIN-SUFFIX,yangshipin.cn
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
