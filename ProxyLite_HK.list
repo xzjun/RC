@@ -5,5 +5,5 @@ DOMAIN-SUFFIX,stream-link.online
 DOMAIN-SUFFIX,stream-link.org
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,stream
-DOMAIN-KEYWORD,stream-link
+# DOMAIN-KEYWORD,stream
+# DOMAIN-KEYWORD,stream-link
