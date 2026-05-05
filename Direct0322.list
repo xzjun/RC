@@ -3,6 +3,7 @@
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,abrillantlee.top
+DOMAIN-SUFFIX,aysshxd.com
 DOMAIN-SUFFIX,catvod.com
 DOMAIN-SUFFIX,cctv.cn
 DOMAIN-SUFFIX,chinamobile.com
@@ -25,4 +26,5 @@ DOMAIN-SUFFIX,yangshipin.cn
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,abrillantlee
+DOMAIN-KEYWORD,aysshxd
 DOMAIN-KEYWORD,galaxystore
