@@ -25,9 +25,11 @@ DOMAIN-SUFFIX,mirrors.vsean.net
 DOMAIN-SUFFIX,mobaibox.com
 DOMAIN-SUFFIX,myip.ipip.net
 DOMAIN-SUFFIX,pcdnbox.com
+DOMAIN-SUFFIX,rockoncall.com
 DOMAIN-SUFFIX,sis.jpush.io
 DOMAIN-SUFFIX,verde-x.com
 DOMAIN-SUFFIX,yangshipin.cn
+DOMAIN-SUFFIX,zegonetwork.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,abrillantlee
