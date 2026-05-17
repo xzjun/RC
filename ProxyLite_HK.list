@@ -1,6 +1,7 @@
 # 代理补充列表
 
 # 域名后缀匹配
+DOMAIN-SUFFIX,epg.pw
 DOMAIN-SUFFIX,stream-link.online
 DOMAIN-SUFFIX,stream-link.org
 DOMAIN-SUFFIX,liangxin.xyz
