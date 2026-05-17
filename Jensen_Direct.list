@@ -1,5 +1,4 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
-
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,aikanurlzzzonline.top
@@ -11,6 +10,7 @@ DOMAIN-SUFFIX,chinamobile.com
 DOMAIN-SUFFIX,cmvideo.cn
 DOMAIN-SUFFIX,djicorp.com
 DOMAIN-SUFFIX,dnsany.com
+DOMAIN-SUFFIX,zxyxndc.top
 DOMAIN-SUFFIX,galaxyappstore.com
 DOMAIN-SUFFIX,getui.net
 DOMAIN-SUFFIX,gitee.com
