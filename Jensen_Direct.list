@@ -10,7 +10,6 @@ DOMAIN-SUFFIX,chinamobile.com
 DOMAIN-SUFFIX,cmvideo.cn
 DOMAIN-SUFFIX,djicorp.com
 DOMAIN-SUFFIX,dnsany.com
-DOMAIN-SUFFIX,zxyxndc.top
 DOMAIN-SUFFIX,galaxyappstore.com
 DOMAIN-SUFFIX,getui.net
 DOMAIN-SUFFIX,gitee.com
@@ -30,6 +29,7 @@ DOMAIN-SUFFIX,sis.jpush.io
 DOMAIN-SUFFIX,verde-x.com
 DOMAIN-SUFFIX,yangshipin.cn
 DOMAIN-SUFFIX,zegonetwork.com
+DOMAIN-SUFFIX,zxyxndc.top
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,abrillantlee
