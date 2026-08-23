@@ -34,7 +34,6 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,clientservices.googleapis.com
 DOMAIN-SUFFIX,update.googleapis.com
-DOMAIN-SUFFIX,translate.googleapis.com
 DOMAIN-SUFFIX,fonts.googleapis.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,abrillantlee
