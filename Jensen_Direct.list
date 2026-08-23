@@ -32,10 +32,10 @@ DOMAIN-SUFFIX,zegonetwork.com
 DOMAIN-SUFFIX,zxyxndc.top
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,googleapis.cn
-DOMAIN-SUFFIX,clientservices.googleapis.com
-DOMAIN-SUFFIX,update.googleapis.com
-DOMAIN-SUFFIX,translate.googleapis.com
-DOMAIN-SUFFIX,fonts.googleapis.com
+DOMAIN,clientservices.googleapis.com
+DOMAIN,update.googleapis.com
+DOMAIN,translate.googleapis.com
+DOMAIN,fonts.googleapis.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,abrillantlee
 DOMAIN-KEYWORD,aysshxd
