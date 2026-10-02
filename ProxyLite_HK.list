@@ -13,9 +13,9 @@ DOMAIN-SUFFIX,epg.zsdc.eu.org
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,utvlive.top
 DOMAIN-SUFFIX,cmishow.com
-DOMAIN-SUFFIX,cdn.qd.je
-DOMAIN-SUFFIX,cdn6.cc.cd
-DOMAIN-SUFFIX,cdn3.indevs.in
+DOMAIN-SUFFIX,qd.je
+DOMAIN-SUFFIX,cc.cd
+DOMAIN-SUFFIX,indevs.in
 
 
 # 域名关键字匹配
