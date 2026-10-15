@@ -1,0 +1,17 @@
+#1. Siri 语音与搜索核心
+DOMAIN-SUFFIX,guzzoni.apple.com
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN-KEYWORD,siri
+#2. Apple Intelligence 算力与 ChatGPT 匿名转发 (OHTTP Relay)
+DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com
+DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net
+DOMAIN-SUFFIX,cp4.cloudflare.com
+#3. Apple 底层掩码与云端网关 (支撑 PCC 私有云加密握手)
+DOMAIN,mask-api.fe.apple-dns.net
+DOMAIN,mask-t.apple-dns.net
+DOMAIN,mask.apple-dns.net
+DOMAIN-SUFFIX,gateway.icloud.com
+# 4. 仅针对锁区检测做精准代理 (不影响国内高德地图)
+DOMAIN,gspe1-ssl.ls.apple.com
