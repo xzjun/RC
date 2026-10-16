@@ -3,8 +3,12 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,epg.pw
 DOMAIN-SUFFIX,stream-link.online
-DOMAIN-SUFFIX,clubsim.com.hk
 DOMAIN-SUFFIX,stream-link.org
+DOMAIN-SUFFIX,clubsim.com.hk
+DOMAIN-SUFFIX,theclub.com.hk
+DOMAIN-SUFFIX,cslmobile.com
+DOMAIN-SUFFIX,hkt.com
+DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,liangxin.xyz
 DOMAIN-SUFFIX,yue.to
 DOMAIN-SUFFIX,yuetoto.com
