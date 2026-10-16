@@ -3,6 +3,7 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,epg.pw
 DOMAIN-SUFFIX,stream-link.online
+DOMAIN-SUFFIX,clubsim.com.hk
 DOMAIN-SUFFIX,stream-link.org
 DOMAIN-SUFFIX,liangxin.xyz
 DOMAIN-SUFFIX,yue.to
@@ -23,3 +24,4 @@ DOMAIN-SUFFIX,shenniaokongque.top
 DOMAIN-KEYWORD,stream
 DOMAIN-KEYWORD,stream-link
 DOMAIN-KEYWORD,liangxin
+DOMAIN-KEYWORD,clubsim
