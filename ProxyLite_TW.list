@@ -52,6 +52,9 @@ DOMAIN-SUFFIX,mobileevent-hamivideo.cdn.hinet.net
 DOMAIN-SUFFIX,social.ott.hinet.net
 
 # --- 台湾常见平台 ---
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,catchplay.com
+DOMAIN,tra-ww000-cp.akamaized.net
 DOMAIN-SUFFIX,eltaott.tv
 DOMAIN-SUFFIX,gamer.com.tw
 DOMAIN-SUFFIX,kktv.com.tw
